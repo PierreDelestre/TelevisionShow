@@ -27,6 +27,11 @@ page 50101 "Television Show List"
                 {
                     ApplicationArea = All;
                 }
+
+                field("Created By"; rec."Created By")
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }
