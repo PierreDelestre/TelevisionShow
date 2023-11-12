@@ -6,6 +6,7 @@ page 50101 "Television Show List"
     Editable = false;
     CardPageId = "Television Show Card";
     SourceTable = "Television Show";
+    HelpLink = 'http://customhelpsite.com/televisionshows';
 
     layout
     {
